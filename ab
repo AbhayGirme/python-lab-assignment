@@ -1,4 +1,0 @@
-s1.input("Enter string:")
-a=s1.split()
-a.reverse()
-print(a)
